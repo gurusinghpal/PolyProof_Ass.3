@@ -105,10 +105,13 @@ component main = MyCircuit();
 ```
 
 `npx hardhat circom` 
+
 This will generate the **out** file with circuit intermediaries and geneate the **MyCircuitVerifier.sol** contract
 
 `npx hardhat run scripts/deploy.ts --network mumbai`
+
 This script does 4 things  
+
 1. Deploys the MyCircuitVerifier.sol contract at mumbai network
 2. Generates a proof from circuit intermediaries with `generateProof()`
 3. Generates calldata with `generateCallData()`
