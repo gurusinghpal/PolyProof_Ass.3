@@ -19,13 +19,13 @@ The goal of the project is to prove that you know the inputs A=0 and B=1 that yi
 
 Before proceeding, make sure you have the following installed on your system:
 
-Node.js: [https://nodejs.org]
+* Node.js: [https://nodejs.org]
 
-Circom: [https://github.com/iden3/circom]
+* Circom: [https://github.com/iden3/circom]
 
-SnarkJS: [https://github.com/iden3/snarkjs]
+* SnarkJS: [https://github.com/iden3/snarkjs]
 
-A test wallet with some Mumbai Faucet (MATIC) for contract deployment.
+* A test wallet with some Mumbai Faucet (MATIC) for contract deployment.
 
 ## Getting Started
 
