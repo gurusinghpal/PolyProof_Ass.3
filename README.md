@@ -34,7 +34,7 @@ Before proceeding, make sure you have the following installed on your system:
 To get started with the project, follow these steps:
 
 1. clone the circom repository :
-    `git clone [https://github.com/gmchad/zardkat]`
+    `git clone https://github.com/gmchad/zardkat`
    
 2. Install the required dependencies :
    `npm i`
